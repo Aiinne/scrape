@@ -1,0 +1,1374 @@
+[
+    {
+        "pertanyaan": "Profesi : O-D-T-R-E-K",
+        "jawaban": "DOKTER"
+    },
+    {
+        "pertanyaan": "Kendaraan : L-I-M-B-O",
+        "jawaban": "MOBIL"
+    },
+    {
+        "pertanyaan": "Profesi : A-K-H-I-M",
+        "jawaban": "HAKIM"
+    },
+    {
+        "pertanyaan": "Benda : T-R-A-G-I",
+        "jawaban": "GITAR"
+    },
+    {
+        "pertanyaan": "Benda : A-P-S-U-I",
+        "jawaban": "PISAU"
+    },
+    {
+        "pertanyaan": "Benda : A-P-I-P",
+        "jawaban": "PIPA"
+    },
+    {
+        "pertanyaan": "Hewan : M-A-Y-A",
+        "jawaban": "AYAM"
+    },
+    {
+        "pertanyaan": "Tubuh : A-K-P-L-E-A",
+        "jawaban": "KEPALA"
+    },
+    {
+        "pertanyaan": "Benda : E-O-N-K-A-R-Y",
+        "jawaban": "KERAYON"
+    },
+    {
+        "pertanyaan": "Benda : G-U-N-A",
+        "jawaban": "UANG"
+    },
+    {
+        "pertanyaan": "Hewan : D-A-K-U",
+        "jawaban": "KUDA"
+    },
+    {
+        "pertanyaan": "Makanan : A-T-D-O-N",
+        "jawaban": "DONAT"
+    },
+    {
+        "pertanyaan": "Benda : E-P-I-C",
+        "jawaban": "PECI"
+    },
+    {
+        "pertanyaan": "Kota : G-N-U-L-A-M-P",
+        "jawaban": "LAMPUNG"
+    },
+    {
+        "pertanyaan": "Benda : S-A-M-U-K",
+        "jawaban": "KAMUS"
+    },
+    {
+        "pertanyaan": "Benda : B-A-R-D-E-E-N",
+        "jawaban": "BENDERA"
+    },
+    {
+        "pertanyaan": "Benda : A-N-I-P-O",
+        "jawaban": "PIANO"
+    },
+    {
+        "pertanyaan": "Buah : A-B-R-A-N-T-U-M",
+        "jawaban": "RAMBUTAN"
+    },
+    {
+        "pertanyaan": "Hewan : A-N-G-E-R-U-B",
+        "jawaban": "BERUANG"
+    },
+    {
+        "pertanyaan": "Benda : J-A-M-E",
+        "jawaban": "MEJA"
+    },
+    {
+        "pertanyaan": "Hewan : B-U-R-N-G-U",
+        "jawaban": "BURUNG"
+    },
+    {
+        "pertanyaan": "Hewan : B-E-N-G-N-A-T",
+        "jawaban": "BANTENG"
+    },
+    {
+        "pertanyaan": "Buah : A-N-S-A-N",
+        "jawaban": "NANAS"
+    },
+    {
+        "pertanyaan": "Buah : A-I-R-D-U-N",
+        "jawaban": "DURIAN"
+    },
+    {
+        "pertanyaan": "Hewan : K-A-I-N",
+        "jawaban": "IKAN"
+    },
+    {
+        "pertanyaan": "Benda : I-N-P-U-T",
+        "jawaban": "PINTU"
+    },
+    {
+        "pertanyaan": "Hewan : A-N-U-M-K-Y",
+        "jawaban": "NYAMUK"
+    },
+    {
+        "pertanyaan": "Benda : A-D-L-A-N-S",
+        "jawaban": "SANDAL"
+    },
+    {
+        "pertanyaan": "Hewan : A-K-E-B-U-R",
+        "jawaban": "KERBAU"
+    },
+    {
+        "pertanyaan": "Benda : S-T-R-E-A-K",
+        "jawaban": "KERTAS"
+    },
+    {
+        "pertanyaan": "Benda : G-E-N-P-O-T",
+        "jawaban": "TOPENG"
+    },
+    {
+        "pertanyaan": "Benda : A-S-B-U-N",
+        "jawaban": "SABUN"
+    },
+    {
+        "pertanyaan": "Hewan : A-U-N-T",
+        "jawaban": "UNTA"
+    },
+    {
+        "pertanyaan": "Benda : I-L-N-I-L",
+        "jawaban": "LILIN"
+    },
+    {
+        "pertanyaan": "Benda : M-A-J",
+        "jawaban": "JAM"
+    },
+    {
+        "pertanyaan": "Benda : A-K-U-P",
+        "jawaban": "PAKU"
+    },
+    {
+        "pertanyaan": "Buah : A-P-I-N-G-S",
+        "jawaban": "PISANG"
+    },
+    {
+        "pertanyaan": "Benda : A-T-S",
+        "jawaban": "TAS"
+    },
+    {
+        "pertanyaan": "Benda : I-R-K-U-S",
+        "jawaban": "KURSI"
+    },
+    {
+        "pertanyaan": "Hewan : I-P-S-A",
+        "jawaban": "SAPI"
+    },
+    {
+        "pertanyaan": "Hewan : B-A-N-G-K-I-M",
+        "jawaban": "KAMBING"
+    },
+    {
+        "pertanyaan": "Hewan : R-A-U-L",
+        "jawaban": "ULAR"
+    },
+    {
+        "pertanyaan": "Benda : A-L-B-T-A-N",
+        "jawaban": "BANTAL"
+    },
+    {
+        "pertanyaan": "Benda : E-L-M-I-R-A",
+        "jawaban": "LEMARI"
+    },
+    {
+        "pertanyaan": "Benda : S-U-I-T",
+        "jawaban": "TISU"
+    },
+    {
+        "pertanyaan": "Benda :G-I-N-R-I-P",
+        "jawaban": "PIRING"
+    },
+    {
+        "pertanyaan": "Tempat : A-L-B-I",
+        "jawaban": "BALI"
+    },
+    {
+        "pertanyaan": "Benda : S-P-I-N-E-L",
+        "jawaban": "PENSIL"
+    },
+    {
+        "pertanyaan": "Benda : T-U-B-A",
+        "jawaban": "BATU"
+    },
+    {
+        "pertanyaan": "Benda : A-T-A-B",
+        "jawaban": "BATA"
+    },
+    {
+        "pertanyaan": "Benda : A-P-U-S",
+        "jawaban": "SAPU"
+    },
+    {
+        "pertanyaan": "Kota : B-R-O-G-O",
+        "jawaban": "BOGOR"
+    },
+    {
+        "pertanyaan": "Benda : A-N-I-S-U-L-K",
+        "jawaban": "LUKISAN"
+    },
+    {
+        "pertanyaan": "Benda : K-U-S-A-L-K",
+        "jawaban": "KULKAS"
+    },
+    {
+        "pertanyaan": "Hewan : A-K-D-A-B",
+        "jawaban": "BADAK"
+    },
+    {
+        "pertanyaan": "Hewan : A-H-J-A-G",
+        "jawaban": "GAJAH"
+    },
+    {
+        "pertanyaan": "Benda : A-N-Y-P-U-G",
+        "jawaban": "PAYUNG"
+    },
+    {
+        "pertanyaan": "Benda : A-D-H-U-N-K",
+        "jawaban": "HANDUK"
+    },
+    {
+        "pertanyaan": "Buah : A-S-M-A-N-G-E",
+        "jawaban": "SEMANGKA"
+    },
+    {
+        "pertanyaan": "Benda : A-S-E-T-U-P",
+        "jawaban": "SEPATU"
+    },
+    {
+        "pertanyaan": "Benda : G-U-R-A-P",
+        "jawaban": "GARPU"
+    },
+    {
+        "pertanyaan": "Hewan : C-U-K-I-N-G",
+        "jawaban": "KUCING"
+    },
+    {
+        "pertanyaan": "Hewan : B-A-M-O-D",
+        "jawaban": "DOMBA"
+    },
+    {
+        "pertanyaan": "Tempat : T-H-O-L-E",
+        "jawaban": "HOTEL"
+    },
+    {
+        "pertanyaan": "Hewan : H-E-A-P-J-A-R",
+        "jawaban": "JERAPAH"
+    },
+    {
+        "pertanyaan": "Tempat : L-A-T-H-E",
+        "jawaban": "HALTE"
+    },
+    {
+        "pertanyaan": "Benda : E-R-I-C-M-N",
+        "jawaban": "CERMIN"
+    },
+    {
+        "pertanyaan": "Benda : M-O-P-E-T-U-R-K",
+        "jawaban": "KOMPUTER"
+    },
+    {
+        "pertanyaan": "Benda : M-E-T-R-O-S",
+        "jawaban": "TERMOS"
+    },
+    {
+        "pertanyaan": "Benda : A-C-L-E-A-N",
+        "jawaban": "CELANA"
+    },
+    {
+        "pertanyaan": "Benda : A-I-R-I-T",
+        "jawaban": "TIRAI"
+    },
+    {
+        "pertanyaan": "Tempat : A-N-D-R-A-B-A",
+        "jawaban": "BANDARA"
+    },
+    {
+        "pertanyaan": "Organ : S-U-U-S",
+        "jawaban": "USUS"
+    },
+    {
+        "pertanyaan": "Hewan : A-K-A-D-B",
+        "jawaban": "BADAK"
+    },
+    {
+        "pertanyaan": "Buah : E-M-N-O-L",
+        "jawaban": "LEMON"
+    },
+    {
+        "pertanyaan": "Tempat : D-A-N-N-A-K-G",
+        "jawaban": "KANDANG"
+    },
+    {
+        "pertanyaan": "Buah : A-P-S-I-N-G",
+        "jawaban": "PISANG"
+    },
+    {
+        "pertanyaan": "Benda : L-I-S-E-T-T-A",
+        "jawaban": "SATELIT"
+    },
+    {
+        "pertanyaan": "Kendaraan : A-K-E-B-C",
+        "jawaban": "BECAK"
+    },
+    {
+        "pertanyaan": "Hewan : A-N-A-B-U-G",
+        "jawaban": "BANGAU"
+    },
+    {
+        "pertanyaan": "Tumbuhan : A-N-B-U-G",
+        "jawaban": "BUNGA"
+    },
+    {
+        "pertanyaan": "Benda : I-P-T-U-N",
+        "jawaban": "PINTU"
+    },
+    {
+        "pertanyaan": "Minuman : I-P-K-O",
+        "jawaban": "KOPI"
+    },
+    {
+        "pertanyaan": "Hewan : A-K-R-U-B-E",
+        "jawaban": "KERBAU"
+    },
+    {
+        "pertanyaan": "Bagian Tubuh : D-I-N-G-U-H",
+        "jawaban": "HIDUNG"
+    },
+    {
+        "pertanyaan": "Pekerjaan : L-I-P-T-O",
+        "jawaban": "PILOT"
+    },
+    {
+        "pertanyaan": "Benda : A-C-L-E-A-N",
+        "jawaban": "CELANA"
+    },
+    {
+        "pertanyaan": "Benda : H-A-N-A-L-A-M",
+        "jawaban": "HALAMAN"
+    },
+    {
+        "pertanyaan": "Tumbuhan : G-A-B-W-A-N",
+        "jawaban": "BAWANG"
+    },
+    {
+        "pertanyaan": "Benda : U-C-T-A-R",
+        "jawaban": "CATUR"
+    },
+    {
+        "pertanyaan": "Benda : M-R-T-O-O",
+        "jawaban": "MOTOR"
+    },
+    {
+        "pertanyaan": "Tempat : L-E-A-K-S",
+        "jawaban": "KELAS"
+    },
+    {
+        "pertanyaan": "Tempat : A-K-E-H-O-L-S",
+        "jawaban": "SEKOLAH"
+    },
+    {
+        "pertanyaan": "Hewan : J-I-G-N-A-N",
+        "jawaban": "ANJING"
+    },
+    {
+        "pertanyaan": "Benda : S-A-B-E-R",
+        "jawaban": "BERAS"
+    },
+    {
+        "pertanyaan": "Hewan : M-U-T-E-S",
+        "jawaban": "SEMUT"
+    },
+    {
+        "pertanyaan": "Benda : D-A-K-U-H-N",
+        "jawaban": "HANDUK"
+    },
+    {
+        "pertanyaan": "Benda : A-L-E-N-E-D-J",
+        "jawaban": "JENDELA"
+    },
+    {
+        "pertanyaan": "Tempat : A-U-G-I-N-S",
+        "jawaban": "SUNGAI"
+    },
+    {
+        "pertanyaan": "Buah : A-K-P-E-A-L",
+        "jawaban": "KELAPA"
+    },
+    {
+        "pertanyaan": "Hewan : G-L-U-O-N-N-B",
+        "jawaban": "BUNGLON"
+    },
+    {
+        "pertanyaan": "Makanan : A-A-R-C",
+        "jawaban": "ACAR"
+    },
+    {
+        "pertanyaan": "Tempat : E-L-H-A-T",
+        "jawaban": "HALTE"
+    },
+    {
+        "pertanyaan": "Tempat : A-H-A-W-S",
+        "jawaban": "SAWAH"
+    },
+    {
+        "pertanyaan": "Tempat : D-A-R-A-B-A-N",
+        "jawaban": "BANDARA"
+    },
+    {
+        "pertanyaan": "Hewan : U-H-I",
+        "jawaban": "HIU"
+    },
+    {
+        "pertanyaan": "Sayuran : L-O-K",
+        "jawaban": "KOL"
+    },
+    {
+        "pertanyaan": "Benda : N-A-B",
+        "jawaban": "BAN"
+    },
+    {
+        "pertanyaan": "Benda : B-R-O",
+        "jawaban": "BOR"
+    },
+    {
+        "pertanyaan": "Benda : E-R-P",
+        "jawaban": "PER"
+    },
+    {
+        "pertanyaan": "Tempat : A-U-J-B",
+        "jawaban": "BAJU"
+    },
+    {
+        "pertanyaan": "Buah : P-E-A-L",
+        "jawaban": "APEL"
+    },
+    {
+        "pertanyaan": "Benda : K-U-B-U",
+        "jawaban": "BUKU"
+    },
+    {
+        "pertanyaan": "Benda : B-A-L-O",
+        "jawaban": "BOLA"
+    },
+    {
+        "pertanyaan": "Sayuran : A-C-B-E",
+        "jawaban": "CABE"
+    },
+    {
+        "pertanyaan": "Benda : Y-O-O-Y",
+        "jawaban": "YOYO"
+    },
+    {
+        "pertanyaan": "Benda : F-A-S-O",
+        "jawaban": "SOFA"
+    },
+    {
+        "pertanyaan": "Benda : I-L-T-A",
+        "jawaban": "TALI"
+    },
+    {
+        "pertanyaan": "Hewan : S-U-R-A",
+        "jawaban": "RUSA"
+    },
+    {
+        "pertanyaan": "Benda : P-A-U-L",
+        "jawaban": "PALU"
+    },
+    {
+        "pertanyaan": "Hewan : E-L-E-L",
+        "jawaban": "LELE"
+    },
+    {
+        "pertanyaan": "Benda : P-I-T-O",
+        "jawaban": "TOPI"
+    },
+    {
+        "pertanyaan": "Sayuran : A-B-U-L",
+        "jawaban": "LABU"
+    },
+    {
+        "pertanyaan": "Benda : A-Y-U-K",
+        "jawaban": "KAYU"
+    },
+    {
+        "pertanyaan": "Buah : L-I-C-E",
+        "jawaban": "LECI"
+    },
+    {
+        "pertanyaan": "Benda : L-A-J-A",
+        "jawaban": "JALA"
+    },
+    {
+        "pertanyaan": "Benda : S-A-U-K",
+        "jawaban": "KUAS"
+    },
+    {
+        "pertanyaan": "Benda : D-I-A-S",
+        "jawaban": "DASI"
+    },
+    {
+        "pertanyaan": "Hewan : L-A-U-T",
+        "jawaban": "ULAT"
+    },
+    {
+        "pertanyaan": "Benda : G-A-N-T",
+        "jawaban": "TANG"
+    },
+    {
+        "pertanyaan": "Hewan : A-P-U-S",
+        "jawaban": "PAUS"
+    },
+    {
+        "pertanyaan": "Hewan : U-U-Y-Y",
+        "jawaban": "YUYU"
+    },
+    {
+        "pertanyaan": "Sayuran : A-W-I-S",
+        "jawaban": "SAWI"
+    },
+    {
+        "pertanyaan": "Sayuran : E-T-G-O",
+        "jawaban": "TOGE"
+    },
+    {
+        "pertanyaan": "Buah : A-S-O-W",
+        "jawaban": "SAWO"
+    },
+    {
+        "pertanyaan": "Buah : R-I-C-E",
+        "jawaban": "CERI"
+    },
+    {
+        "pertanyaan": "Benda : I-K-A-L",
+        "jawaban": "KAIL"
+    },
+    {
+        "pertanyaan": "Sayuran : A-R-E-P",
+        "jawaban": "PARE"
+    },
+    {
+        "pertanyaan": "Benda : D-A-R-O",
+        "jawaban": "RODA"
+    },
+    {
+        "pertanyaan": "Benda : L-E-M-H",
+        "jawaban": "HELM"
+    },
+    {
+        "pertanyaan": "Buah : P-A-L-E",
+        "jawaban": "APEL"
+    },
+    {
+        "pertanyaan": "Benda : R-U-M-D",
+        "jawaban": "DRUM"
+    },
+    {
+        "pertanyaan": "Hewan : A-R-E-K",
+        "jawaban": "KERA"
+    },
+    {
+        "pertanyaan": "Kendaraan : K-A-N-T",
+        "jawaban": "TANK"
+    },
+    {
+        "pertanyaan": "Pekerjaan : U-R-U-G",
+        "jawaban": "GURU"
+    },
+    {
+        "pertanyaan": "Pekerjaan : K-O-I-K",
+        "jawaban": "KOKI"
+    },
+    {
+        "pertanyaan": "Benda : A-M-P-U-L",
+        "jawaban": "LAMPU"
+    },
+    {
+        "pertanyaan": "Buah : J-R-U-K-E",
+        "jawaban": "JERUK"
+    },
+    {
+        "pertanyaan": "Hewan : G-A-L-E-N",
+        "jawaban": "ELANG"
+    },
+    {
+        "pertanyaan": "Benda : B-E-R-E-M",
+        "jawaban": "EMBER"
+    },
+    {
+        "pertanyaan": "Benda : B-E-G-O-N",
+        "jawaban": "OBENG"
+    },
+    {
+        "pertanyaan": "Benda : A-A-L-I-P",
+        "jawaban": "PIALA"
+    },
+    {
+        "pertanyaan": "Benda : H-A-R-U-M",
+        "jawaban": "RUMAH"
+    },
+    {
+        "pertanyaan": "Hewan : G-A-I-N-S",
+        "jawaban": "SINGA"
+    },
+    {
+        "pertanyaan": "Hewan : K-U-S-I-T",
+        "jawaban": "TIKUS"
+    },
+    {
+        "pertanyaan": "Benda : J-A-W-N-A",
+        "jawaban": "WAJAN"
+    },
+    {
+        "pertanyaan": "Hewan : B-R-A-Z-E",
+        "jawaban": "ZEBRA"
+    },
+    {
+        "pertanyaan": "Benda : L-I-T-O-R",
+        "jawaban": "TROLI"
+    },
+    {
+        "pertanyaan": "Hewan : A-C-M-A-N",
+        "jawaban": "MACAN"
+    },
+    {
+        "pertanyaan": "Sayuran : M-I-N-U-T",
+        "jawaban": "TIMUN"
+    },
+    {
+        "pertanyaan": "Benda : B-A-N-O-L",
+        "jawaban": "BALON"
+    },
+    {
+        "pertanyaan": "Benda : P-A-N-I-C",
+        "jawaban": "PANCI"
+    },
+    {
+        "pertanyaan": "Benda : C-U-I-N-K",
+        "jawaban": "KUNCI"
+    },
+    {
+        "pertanyaan": "Hewan : A-P-A-N-D",
+        "jawaban": "PANDA"
+    },
+    {
+        "pertanyaan": "Benda : A-D-N-E-T",
+        "jawaban": "TENDA"
+    },
+    {
+        "pertanyaan": "Hewan : N-O-B-I-S",
+        "jawaban": "BISON"
+    },
+    {
+        "pertanyaan": "Buah : E-L-M-O-N",
+        "jawaban": "MELON"
+    },
+    {
+        "pertanyaan": "Hewan : A-T-R-I-P",
+        "jawaban": "TAPIR"
+    },
+    {
+        "pertanyaan": "Benda : S-I-R-S-I",
+        "jawaban": "SISIR"
+    },
+    {
+        "pertanyaan": "Benda : R-U-S-A-K",
+        "jawaban": "KASUR"
+    },
+    {
+        "pertanyaan": "Benda : P-O-K-E-R",
+        "jawaban": "KOPER"
+    },
+    {
+        "pertanyaan": "Benda : A-L-E-G-S",
+        "jawaban": "GELAS"
+    },
+    {
+        "pertanyaan": "Hewan : A-D-G-U-N",
+        "jawaban": "UDANG"
+    },
+    {
+        "pertanyaan": "Benda : S-P-I-N-O",
+        "jawaban": "SPION"
+    },
+    {
+        "pertanyaan": "Hewan : A-T-A-L-L",
+        "jawaban": "LALAT"
+    },
+    {
+        "pertanyaan": "Buah : J-A-B-M-U",
+        "jawaban": "JAMBU"
+    },
+    {
+        "pertanyaan": "Benda : A-P-O-M-P",
+        "jawaban": "POMPA"
+    },
+    {
+        "pertanyaan": "Benda : A-M-U-J-R",
+        "jawaban": "JARUM"
+    },
+    {
+        "pertanyaan": "Benda : S-K-E-E-T",
+        "jawaban": "KESET"
+    },
+    {
+        "pertanyaan": "Hewan : A-U-B-A-Y",
+        "jawaban": "BUAYA"
+    },
+    {
+        "pertanyaan": "Benda : I-T-A-S-K",
+        "jawaban": "SIKAT"
+    },
+    {
+        "pertanyaan": "Buah : M-O-T-A-T",
+        "jawaban": "TOMAT"
+    },
+    {
+        "pertanyaan": "Benda : K-E-R-T-O",
+        "jawaban": "ROKET"
+    },
+    {
+        "pertanyaan": "Benda :T-A-K-E-R",
+        "jawaban": "RAKET"
+    },
+    {
+        "pertanyaan": "Benda : M-E-T-R-O",
+        "jawaban": "REMOT"
+    },
+    {
+        "pertanyaan": "Hewan : B-E-L-A-H",
+        "jawaban": "LEBAH"
+    },
+    {
+        "pertanyaan": "Hewan : C-I-A-K-C",
+        "jawaban": "CICAK"
+    },
+    {
+        "pertanyaan": "Hewan : A-K-G-A-G",
+        "jawaban": "GAGAK"
+    },
+    {
+        "pertanyaan": "Buah : L-A-S-K-A",
+        "jawaban": "SALAK"
+    },
+    {
+        "pertanyaan": "Benda : B-A-S-K-A",
+        "jawaban": "ASBAK"
+    },
+    {
+        "pertanyaan": "Benda : L-O-B-T-O",
+        "jawaban": "BOTOL"
+    },
+    {
+        "pertanyaan": "Hewan : G-A-B-O-N",
+        "jawaban": "BANGO"
+    },
+    {
+        "pertanyaan": "Hewan : C-O-K-E-A",
+        "jawaban": "KECOA"
+    },
+    {
+        "pertanyaan": "Hewan : P-U-T-I-A",
+        "jawaban": "TUPAI"
+    },
+    {
+        "pertanyaan": "Benda : B-A-O-I-L",
+        "jawaban": "BIOLA"
+    },
+    {
+        "pertanyaan": "Hewan : A-K-A-L-O",
+        "jawaban": "KOALA"
+    },
+    {
+        "pertanyaan": "Sayuran : S-I-B-U-K",
+        "jawaban": "KUBIS"
+    },
+    {
+        "pertanyaan": "Sayuran : A-B-A-M-Y",
+        "jawaban": "BAYAM"
+    },
+    {
+        "pertanyaan": "Sayuran : M-U-R-A-J",
+        "jawaban": "JAMUR"
+    },
+    {
+        "pertanyaan": "Hewan : S-A-G-A-N",
+        "jawaban": "ANGSA"
+    },
+    {
+        "pertanyaan": "Benda : N-A-B-O-D",
+        "jawaban": "BANDO"
+    },
+    {
+        "pertanyaan": "Benda : S-T-A-K-E",
+        "jawaban": "KASET"
+    },
+    {
+        "pertanyaan": "Benda : G-A-P-A-R",
+        "jawaban": "PAGAR"
+    },
+    {
+        "pertanyaan": "Hewan : K-U-R-A-N",
+        "jawaban": "RAKUN"
+    },
+    {
+        "pertanyaan": "Benda : B-L-A-K-E",
+        "jawaban": "KABEL"
+    },
+    {
+        "pertanyaan": "Benda : B-R-O-T-O",
+        "jawaban": "ROBOT"
+    },
+    {
+        "pertanyaan": "Benda : G-A-E-L-S",
+        "jawaban": "GELAS"
+    },
+    {
+        "pertanyaan": "Benda : P-I-S-K-A",
+        "jawaban": "KIPAS"
+    },
+    {
+        "pertanyaan": "Benda : K-E-R-O-K",
+        "jawaban": "KOREK"
+    },
+    {
+        "pertanyaan": "Benda : A-L-O-N-G",
+        "jawaban": "GALON"
+    },
+    {
+        "pertanyaan": "Benda : A-C-I-N-D",
+        "jawaban": "CANDI"
+    },
+    {
+        "pertanyaan": "Hewan : E-N-Y-U-P",
+        "jawaban": "PENYU"
+    },
+    {
+        "pertanyaan": "Pekerjaan : R-U-R-I-K",
+        "jawaban": "KURIR"
+    },
+    {
+        "pertanyaan": "Pekerjaan : P-U-S-R-I",
+        "jawaban": "SUPIR"
+    },
+    {
+        "pertanyaan": "Pekerjaan : A-K-R-I-S",
+        "jawaban": "KASIR"
+    },
+    {
+        "pertanyaan": "Profesi : L-A-T-T-E",
+        "jawaban": "ATLET"
+    },
+    {
+        "pertanyaan": "Profesi : P-I-K-E-R",
+        "jawaban": "KIPER"
+    },
+    {
+        "pertanyaan": "Profesi : W-A-I-T-S",
+        "jawaban": "WASIT"
+    },
+    {
+        "pertanyaan": "Tempat : H-A-N-T-U",
+        "jawaban": "HUTAN"
+    },
+    {
+        "pertanyaan": "Tempat : D-R-A-U-P",
+        "jawaban": "DAPUR"
+    },
+    {
+        "pertanyaan": "Tempat : M-A-N-T-A",
+        "jawaban": "TAMAN"
+    },
+    {
+        "pertanyaan": "Tempat : P-A-R-A-S",
+        "jawaban": "PASAR"
+    },
+    {
+        "pertanyaan": "Benda : B-A-K-E-O-N",
+        "jawaban": "BONEKA"
+    },
+    {
+        "pertanyaan": "Benda : J-A-K-E-M-E",
+        "jawaban": "KEMEJA"
+    },
+    {
+        "pertanyaan": "Hewan : G-I-A-N-U-A",
+        "jawaban": "IGUANA"
+    },
+    {
+        "pertanyaan": "Benda : H-A-R-E-U-P",
+        "jawaban": "PERAHU"
+    },
+    {
+        "pertanyaan": "Benda : A-M-A-K-E-R",
+        "jawaban": "KAMERA"
+    },
+    {
+        "pertanyaan": "Benda : D-A-P-E-S-E",
+        "jawaban": "SEPEDA"
+    },
+    {
+        "pertanyaan": "Benda : R-E-T-A-K-E",
+        "jawaban": "KERETA"
+    },
+    {
+        "pertanyaan": "Hewan : G-U-I-T-A-R",
+        "jawaban": "GURITA"
+    },
+    {
+        "pertanyaan": "Buah : A-P-E-P-A-Y",
+        "jawaban": "PEPAYA"
+    },
+    {
+        "pertanyaan": "Benda : A-K-L-U-N-G",
+        "jawaban": "ANGKLUNG"
+    },
+    {
+        "pertanyaan": "Benda : N-A-T-A-N-E",
+        "jawaban": "ANTENA"
+    },
+    {
+        "pertanyaan": "Buah : G-R-A-N-G-U",
+        "jawaban": "ANGGUR"
+    },
+    {
+        "pertanyaan": "Benda : C-R-A-S-K-I",
+        "jawaban": "KARCIS"
+    },
+    {
+        "pertanyaan": "Benda : P-E-G-S-E-R",
+        "jawaban": "GESPER"
+    },
+    {
+        "pertanyaan": "Makanan : A-G-N-A-K-C",
+        "jawaban": "KACANG"
+    },
+    {
+        "pertanyaan": "Hewan : J-I-G-K-A-N",
+        "jawaban": "KIJANG"
+    },
+    {
+        "pertanyaan": "Benda : N-A-G-W-A-G",
+        "jawaban": "GAWANG"
+    },
+    {
+        "pertanyaan": "Hewan : K-O-D-O-M-O",
+        "jawaban": "KOMODO"
+    },
+    {
+        "pertanyaan": "Benda : G-L-U-I-N-G",
+        "jawaban": "GULING"
+    },
+    {
+        "pertanyaan": "Benda : A-N-G-Y-G-U",
+        "jawaban": "GAYUNG"
+    },
+    {
+        "pertanyaan": "Sayuran : G-E-R-N-O-T",
+        "jawaban": "TERONG"
+    },
+    {
+        "pertanyaan": "Benda : N-A-T-I-N-G",
+        "jawaban": "ANTING"
+    },
+    {
+        "pertanyaan": "Benda : K-R-O-O-M-P",
+        "jawaban": "KOMPOR"
+    },
+    {
+        "pertanyaan": "Benda : M-U-S-P-I-T",
+        "jawaban": "SUMPIT"
+    },
+    {
+        "pertanyaan": "Benda : D-E-M-O-P-T",
+        "jawaban": "DOMPET"
+    },
+    {
+        "pertanyaan": "Hewan : A-G-N-I-C-C",
+        "jawaban": "CACING"
+    },
+    {
+        "pertanyaan": "Hewan : C-U-P-A-N-G",
+        "jawaban": "CAPUNG"
+    },
+    {
+        "pertanyaan": "Benda : G-M-K-O-B-E",
+        "jawaban": "GEMBOK"
+    },
+    {
+        "pertanyaan": "Benda : G-A-N-B-U-K",
+        "jawaban": "BANGKU"
+    },
+    {
+        "pertanyaan": "Benda : C-C-I-I-N-N",
+        "jawaban": "CINCIN"
+    },
+    {
+        "pertanyaan": "Benda : D-O-S-K-E-N",
+        "jawaban": "SENDOK"
+    },
+    {
+        "pertanyaan": "Benda : G-R-O-LO-B",
+        "jawaban": "BORGOL"
+    },
+    {
+        "pertanyaan": "Hewan : C-A-L-K-I-N",
+        "jawaban": "KANCIL"
+    },
+    {
+        "pertanyaan": "Sayuran : L-O-W-E-R-T",
+        "jawaban": "WORTEL"
+    },
+    {
+        "pertanyaan": "Hewan : E-T-O-N-M-Y",
+        "jawaban": "MONYET"
+    },
+    {
+        "pertanyaan": "Benda : A-N-I-T-R-A",
+        "jawaban": "RANTAI"
+    },
+    {
+        "pertanyaan": "Sayuran : J-U-G-N-A-G",
+        "jawaban": "JAGUNG"
+    },
+    {
+        "pertanyaan": "Hewan : A-R-I-P-K-T",
+        "jawaban": "PARKIT"
+    },
+    {
+        "pertanyaan": "Hewan : G-U-S-M-A-N",
+        "jawaban": "MUSANG"
+    },
+    {
+        "pertanyaan": "Hewan : A-N-D-A-K-L",
+        "jawaban": "LANDAK"
+    },
+    {
+        "pertanyaan": "Sayuran : B-I-C-N-U-S",
+        "jawaban": "BUNCIS"
+    },
+    {
+        "pertanyaan": "Buah : M-E-D-I-A-L",
+        "jawaban": "DELIMA"
+    },
+    {
+        "pertanyaan": "Buah : M-A-R-C-I-E",
+        "jawaban": "CERMAI"
+    },
+    {
+        "pertanyaan": "Buah : G-A-N-G-M-A",
+        "jawaban": "MANGGA"
+    },
+    {
+        "pertanyaan": "Hewan : A-K-B-A-W-I",
+        "jawaban": "BIAWAK"
+    },
+    {
+        "pertanyaan": "Benda : C-A-K-E-P-I",
+        "jawaban": "KECAP"
+    },
+    {
+        "pertanyaan": "Benda : E-L-G-A-N-G",
+        "jawaban": "GELANG"
+    },
+    {
+        "pertanyaan": "Buah : A-N-N-A-K-G",
+        "jawaban": "NANGKA"
+    },
+    {
+        "pertanyaan": "Buah : S-K-A-S-R-I",
+        "jawaban": "SIRSAK"
+    },
+    {
+        "pertanyaan": "Benda : R-E-S-E-N-T",
+        "jawaban": "SENTER"
+    },
+    {
+        "pertanyaan": "Benda : P-A-N-G-E-D",
+        "jawaban": "PEDANG"
+    },
+    {
+        "pertanyaan": "Benda : G-A-T-A-N-G",
+        "jawaban": "TANGGA"
+    },
+    {
+        "pertanyaan": "Benda : H-E-A-R-U-P",
+        "jawaban": "PERAHU"
+    },
+    {
+        "pertanyaan": "Benda : A-K-A-K-P-M",
+        "jawaban": "KAMPAK"
+    },
+    {
+        "pertanyaan": "Profesi : I-S-P-O-I-L",
+        "jawaban": "POLISI"
+    },
+    {
+        "pertanyaan": "Profesi : A-W-L-P-O-N",
+        "jawaban": "POLWAN"
+    },
+    {
+        "pertanyaan": "Profesi : R-U-S-S-E-T",
+        "jawaban": "SUSTER"
+    },
+    {
+        "pertanyaan": "Tempat : I-L-K-I-N-K",
+        "jawaban": "KLINIK"
+    },
+    {
+        "pertanyaan": "Tempat : T-O-P-E-K-A",
+        "jawaban": "APOTEK"
+    },
+    {
+        "pertanyaan": "Tempat : K-A-R-T-O-N",
+        "jawaban": "KANTOR"
+    },
+    {
+        "pertanyaan": "Tempat : G-U-N-W-A-R",
+        "jawaban": "WARUNG"
+    },
+    {
+        "pertanyaan": "Tempat : G-U-N-G-U-N",
+        "jawaban": "GUNUNG"
+    },
+    {
+        "pertanyaan": "Tempat : B-A-R-K-I-P",
+        "jawaban": "BAPRIK"
+    },
+    {
+        "pertanyaan": "Hewan : I-C-E-L-I-N-K",
+        "jawaban": "KELINCI"
+    },
+    {
+        "pertanyaan": "Benda : K-I-R-A-S-E-T",
+        "jawaban": "SETRIKA"
+    },
+    {
+        "pertanyaan": "Sayuran : G-A-N-T-K-E-N",
+        "jawaban": "KENTANG"
+    },
+    {
+        "pertanyaan": "Benda : G-I-N-G-U-T-N",
+        "jawaban": "GUNTING"
+    },
+    {
+        "pertanyaan": "Benda : G-A-N-G-N-E-D",
+        "jawaban": "GENDANG"
+    },
+    {
+        "pertanyaan": "Tempat : A-H-A-W-S",
+        "jawaban": "SAWAH"
+    },
+    {
+        "pertanyaan": "Hewan : B-U-N-G-K-A-M",
+        "jawaban": "KUMBANG"
+    },
+    {
+        "pertanyaan": "Benda : CANGKING",
+        "jawaban": "KANCING"
+    },
+    {
+        "pertanyaan": "Buah : G-A-S-M-I-N-G",
+        "jawaban": "MANGGIS"
+    },
+    {
+        "pertanyaan": "Benda : R-A-C-K-I-N-G",
+        "jawaban": "CANGKIR"
+    },
+    {
+        "pertanyaan": "Benda : G-L-E-N-N-C-O",
+        "jawaban": "LONCENG"
+    },
+    {
+        "pertanyaan": "Benda : A-S-A-W-E-P-T",
+        "jawaban": "PESAWAT"
+    },
+    {
+        "pertanyaan": "Benda : B-R-O-K-A-G-E",
+        "jawaban": "GEROBAK"
+    },
+    {
+        "pertanyaan": "Benda : L-U-C-K-N-A-G",
+        "jawaban": "CANGKUL"
+    },
+    {
+        "pertanyaan": "Hewan : D-E-I-A-L-E-K",
+        "jawaban": "KELEDAI"
+    },
+    {
+        "pertanyaan": "Benda : A-L-P-O-M-I-N",
+        "jawaban": "LAMPION"
+    },
+    {
+        "pertanyaan": "Sayuran : K-A-R-A-P-I-P",
+        "jawaban": "PAPRIKA"
+    },
+    {
+        "pertanyaan": "Sayuran : K-O-L-O-R-I-B",
+        "jawaban": "BROKOLI"
+    },
+    {
+        "pertanyaan": "Hewan : A-I-A-R-H-U-M",
+        "jawaban": "HARIMAU"
+    },
+    {
+        "pertanyaan": "Sayuran : J-O-I-N-M-E-L",
+        "jawaban": "MELINJO"
+    },
+    {
+        "pertanyaan": "Buah : M-A-R-I-S-K-A",
+        "jawaban": "MARKISA"
+    },
+    {
+        "pertanyaan": "Benda : J-A-G-K-N-A-R",
+        "jawaban": "JANGKAR"
+    },
+    {
+        "pertanyaan": "Buah : E-K-E-K-M-S-E",
+        "jawaban": "KESEMEK"
+    },
+    {
+        "pertanyaan": "Buah : R-I-S-A-Y-A-K",
+        "jawaban": "SRIKAYA"
+    },
+    {
+        "pertanyaan": "Benda : N-O-M-I-T-O-R",
+        "jawaban": "MONITOR"
+    },
+    {
+        "pertanyaan": "Benda : G-A-N-K-M-U-K",
+        "jawaban": "MANGKUK"
+    },
+    {
+        "pertanyaan": "Benda : T-A-N-A-G-E-R",
+        "jawaban": "GERANAT"
+    },
+    {
+        "pertanyaan": "Benda : A-J-I-G-G-E-R",
+        "jawaban": "GERGAJI"
+    },
+    {
+        "pertanyaan": "Profesi : L-E-A-N-A-N-Y",
+        "jawaban": "NELAYAN"
+    },
+    {
+        "pertanyaan": "Profesi : L-U-K-E-P-I-S",
+        "jawaban": "PELUKIS"
+    },
+    {
+        "pertanyaan": "Profesi : S-I-M-I-A-N-S",
+        "jawaban": "MASINIS"
+    },
+    {
+        "pertanyaan": "Profesi : I-N-K-I-E-S-T",
+        "jawaban": "TEKNISI"
+    },
+    {
+        "pertanyaan": "Profesi : E-T-A-T-R-A-N",
+        "jawaban": "TENTARA"
+    },
+    {
+        "pertanyaan": "Profesi : P-E-T-A-W-A-R",
+        "jawaban": "PERAWAT"
+    },
+    {
+        "pertanyaan": "Pekerjaan : A-L-A-N-Y-EP",
+        "jawaban": "PELAYAN"
+    },
+    {
+        "pertanyaan": "Pekerjaan : A-D-A-H-K-O-N",
+        "jawaban": "NAHKODA"
+    },
+    {
+        "pertanyaan": "Profesi : J-E-N-I-P-U-T",
+        "jawaban": "PETINJU"
+    },
+    {
+        "pertanyaan": "Tempat : A-D-I-T-N-O-S",
+        "jawaban": "STADION"
+    },
+    {
+        "pertanyaan": "Hewan : A-K-A-K-A-T-K-U",
+        "jawaban": "KAKATUA"
+    },
+    {
+        "pertanyaan": "Buah : O-R-B-I-T-E-R-S",
+        "jawaban": "STROBERI"
+    },
+    {
+        "pertanyaan": "Benda : A-C-T-A-K-A-M-A",
+        "jawaban": "KACAMATA"
+    },
+    {
+        "pertanyaan": "Benda : L-E-V-I-T-I-E-S",
+        "jawaban": "TELEVISI"
+    },
+    {
+        "pertanyaan": "Sayuran : G-U-N-K-K-N-A-G",
+        "jawaban": "KANGKUNG"
+    },
+    {
+        "pertanyaan": "Hewan : L-A-B-E-L-N-A-G",
+        "jawaban": "BELALANG"
+    },
+    {
+        "pertanyaan": "Hewan : A-J-A-W-L-I-A-R",
+        "jawaban": "RAJAWALI"
+    },
+    {
+        "pertanyaan": "Hewan : G-I-T-I-N-P-E-K",
+        "jawaban": "KEPITING"
+    },
+    {
+        "pertanyaan": "Benda : G-R-U-S-L-I-N-E",
+        "jawaban": "SERULING"
+    },
+    {
+        "pertanyaan": "Benda : C-O-N-G-M-E-E-K",
+        "jawaban": "KEMOCENG"
+    },
+    {
+        "pertanyaan": "Benda : M-E-T-P-E-R-O-T",
+        "jawaban": "TEROMPET"
+    },
+    {
+        "pertanyaan": "Benda : G-U-N-K-L-A-N-G",
+        "jawaban": "ANGKLUNG"
+    },
+    {
+        "pertanyaan": "Profesi : A-N-N-Y-Y-I-P-E",
+        "jawaban": "PENYANYI"
+    },
+    {
+        "pertanyaan": "Pekerjaan : D-A-N-G-P-A-G-E",
+        "jawaban": "PEDAGANG"
+    },
+    {
+        "pertanyaan": "Profesi : D-R-U-K-I-T-E-R",
+        "jawaban": "DIREKTUR"
+    },
+    {
+        "pertanyaan": "Profesi : D-E-N-E-P-R-I-S",
+        "jawaban": "PRESIDEN"
+    },
+    {
+        "pertanyaan": "Profesi : S-I-N-N-Y-U-R-I",
+        "jawaban": "INSINYUR"
+    },
+    {
+        "pertanyaan": "Tempat : A-R-E-L-M-I-N-T",
+        "jawaban": "TERMINAL"
+    },
+    {
+        "pertanyaan": "Tempat : A-R-N-I-P-A-R-K",
+        "jawaban": "PARKIRAN"
+    },
+    {
+        "pertanyaan": "Tempat : A-N-T-R-O-R-S-E",
+        "jawaban": "RESTORAN"
+    }
+]
