@@ -7,26 +7,27 @@ async function handler(m) {
         this.reply(m.chat, 'Masih ada kuis yang belum terjawab di chat ini', this.game[id].msg)
         throw false
     }
-let src = JSON.parse(fs.readFileSync(`./src/family.json`))
+let src = JSON.parse(fs.readFileSync(`./src/abc_lima_dasar.json`))
 let json = src[Math.floor(Math.random() * src.length)]
 let caption = `
 *Soal:* ${json.soal}
-Terdapat *${json.jawaban.length}* jawaban${json.jawaban.find(v => v.includes(' ')) ? `
+Terdapat *${json.huruf.length}* jawaban${json.huruf.find(v => v.includes(' ')) ? `
 (beberapa jawaban terdapat spasi)
 `: ''}
-+${winScore} XP tiap jawaban benar
+
++${winScore} XP tiap huruf benar
     `.trim()
 this.game[id] = {
         id,
         msg: await m.reply(caption),
         ...json,
-        terjawab: Array.from(json.jawaban, () => false),
+        terjawab: Array.from(json.huruf, () => false),
         winScore,
     }
 }
-handler.help = ['family100']
+handler.help = ['abclimadasar']
 handler.tags = ['game']
-handler.command = /^family100$/i
+handler.command = /^abclimadasar$/i
 handler.limit = true
 
 module.exports = handler
