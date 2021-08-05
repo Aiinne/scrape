@@ -23,13 +23,43 @@
         "jawaban": "Baju"
     },
     {
+        "soal": "Benda : ",
+        "huruf": [
+        "",
+        "",
+        "",
+        ""
+        ],
+        "jawaban": ""
+    },
+    {
         "soal": "",
         "huruf": [
         "",
         "",
         "",
         ""
-        ]
+        ],
+        "jawaban": ""
+    },
+    {
+        "soal": "",
+        "huruf": [
+        "",
+        "",
+        "",
+        ""
+        ],
+        "jawaban": ""
+    },
+    {
+        "soal": "",
+        "huruf": [
+        "",
+        "",
+        "",
+        ""
+        ],
         "jawaban": ""
     }
 ]
