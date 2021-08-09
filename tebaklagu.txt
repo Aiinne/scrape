@@ -103,5 +103,10 @@
     "lagu": "https://k.top4top.io/m_20477yi3p0.mp3",
     "judul": "Disaat Aku Tersakiti",
     "artis": "Dadali"
+   },
+   {
+    "lagu": "https://k.top4top.io/m_2047bfvz50.mp3",
+    "judul": "Umbrella",
+    "artis": "Rihana"
    }
 ]
