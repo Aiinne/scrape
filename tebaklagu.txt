@@ -1,63 +1,107 @@
-https://g.top4top.io/m_2045h3rp51.mp3
-Faded
-Alan Walker
-https://j.top4top.io/m_2045mhz4a1.mp3
-Pudar
-Rossa
-https://e.top4top.io/m_204572ywy1.mp3
-Kepastian Rasa
-ZBI Crew
-https://i.top4top.io/m_2045l8hwa1.mp3
-Lily
-Alan Walker
-https://c.top4top.io/m_2045mevgl1.mp3
-Unravel
-Tokyo Ghoul
-https://a.top4top.io/m_2045a4prl1.mp3
-Grateful
-Neffex
-https://j.top4top.io/m_2045opkmh1.mp3
-Something Just Like This
-Alan Walker
-https://f.top4top.io/m_20450a2t91.mp3
-Trouble Is A Friend
-Lenka
-https://i.top4top.io/m_2045s3t221.mp3
-Waka Waka
-Shakira
-https://h.top4top.io/m_20469o1zl1.mp3
-Numb
-Linkin Park
-https://k.top4top.io/m_20461d0421.mp3
-Die Young
-Kesha
-https://g.top4top.io/m_2046my4ft0.mp3
-Play Date
-Melanie Martinez
-https://h.top4top.io/m_20461ogql0.mp3
-So Am I
-Ava Max
-https://j.top4top.io/m_2046jrb050.mp3
-Legends Never Die
-League of Legends
-https://i.top4top.io/m_2046t1nh20.mp3
-Tentang Aku Kau Dan Dia
-Kangen Band
-https://a.top4top.io/m_2046fhj6y0.mp3
-Ruang Rindu
-Letto
-https://d.top4top.io/m_2046cdz240.mp3
-Surat Cinta Untuk Starla
-Virgoun
-https://l.top4top.io/m_20464jk570.mp3
-Kusimpan Rindu Di hati
-Punk Rock Jalanan
-https://f.top4top.io/m_2046ozqrw0.mp3
-Merindukanmu
-Dash Uciha
-https://d.top4top.io/m_2046vooc30.mp3
-Takkan Terganti
-Kangen Band
-https://k.top4top.io/m_20477yi3p0.mp3
-Disaat Aku Tersakiti
-Dadali
+[
+   {
+    "lagu": "https://g.top4top.io/m_2045h3rp51.mp3",
+    "judul": "Faded",
+    "artis": "Alan Walker"
+   },
+   {
+    "lagu": "https://j.top4top.io/m_2045mhz4a1.mp3",
+    "judul": "Pudar",
+    "artis": "Rossa"
+   },
+   {
+    "lagu": "https://e.top4top.io/m_204572ywy1.mp3",
+    "judul": "Kepastian Rasa",
+    "artis": "ZBI Crew"
+   },
+   {
+    "lagu": "https://i.top4top.io/m_2045l8hwa1.mp3",
+    "judul": "Lily",
+    "artis": "Alan Walker"
+   },
+   {
+    "lagu": "https://c.top4top.io/m_2045mevgl1.mp3",
+    "judul": "Unravel",
+    "artis": "Tokyo Ghoul"
+   },
+   {
+    "lagu": "https://a.top4top.io/m_2045a4prl1.mp3",
+    "judul": "Grateful",
+    "artis": "Neffex"
+   },
+   {
+    "lagu": "https://j.top4top.io/m_2045opkmh1.mp3",
+    "judul": "Something Just Like This",
+    "artis": "Alan Walker"
+   },
+   {
+    "lagu": "https://f.top4top.io/m_20450a2t91.mp3",
+    "judul": "Trouble Is A Friend",
+    "artis": "Lenka"
+   },
+   {
+    "lagu": "ttps://i.top4top.io/m_2045s3t221.mp3",
+    "judul": "Waka Waka",
+    "artis": "Shakira"
+   },
+   {
+    "lagu": "https://h.top4top.io/m_20469o1zl1.mp3",
+    "judul": "Numb",
+    "artis": "Linkin Park"
+   },
+   {
+    "lagu": "https://k.top4top.io/m_20461d0421.mp3",
+    "judul": "Die Young",
+    "artis": "Kesha"
+   },
+   {
+    "lagu": "https://g.top4top.io/m_2046my4ft0.mp3",
+    "judul": "Play Date",
+    "artis": "Melanie Martinez"
+   },
+   {
+    "lagu": "https://h.top4top.io/m_20461ogql0.mp3",
+    "judul": "So Am I",
+    "artis": "Ava Max"
+   },
+   {
+    "lagu": "https://j.top4top.io/m_2046jrb050.mp3",
+    "judul": "Legends Never Die",
+    "artis": "League of Legends"
+   },
+   {
+    "lagu": "https://i.top4top.io/m_2046t1nh20.mp3",
+    "judul": "Tentang Aku Kau Dan Dia",
+    "artis": "Kangen Band"
+   },
+   {
+    "lagu": "https://a.top4top.io/m_2046fhj6y0.mp3",
+    "judul": "Ruang Rindu",
+    "artis": "Letto"
+   },
+   {
+    "lagu": "https://d.top4top.io/m_2046cdz240.mp3",
+    "judul": "Surat Cinta Untuk Starla",
+    "artis": "Virgoun"
+   },
+   {
+    "lagu": "https://l.top4top.io/m_20464jk570.mp3",
+    "judul": "Kusimpan Rindu Di hati",
+    "artis": "Punk Rock Jalanan"
+   },
+   {
+    "lagu": "https://f.top4top.io/m_2046ozqrw0.mp3",
+    "judul": "Merindukanmu",
+    "artis": "Dash Uciha"
+   },
+   {
+    "lagu": "https://d.top4top.io/m_2046vooc30.mp3",
+    "judul": "Takkan Terganti",
+    "artis": "Kangen Band"
+   },
+   {
+    "lagu": "https://k.top4top.io/m_20477yi3p0.mp3",
+    "judul": "Disaat Aku Tersakiti",
+    "artis": "Dadali"
+   }
+]
