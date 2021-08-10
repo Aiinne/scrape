@@ -1,0 +1,52 @@
+nabunglimit: 0, nabungexp: 0,
+
+Kalo udh bikin file baru diplugin ... kasih nama nabunglimit.js
+Isi file nya tulis
+
+let handler = async (m, { conn, text }) => {
+if (!text) throw 'Masukkan Jumlah Limit yang akan di tabung ...'
+if (global.db.data.users[m.sender].limit <= text) throw 'Limit tidak cukup untuk ditabung !!'
+global.db.data.users[m.sender].nabunglimit += text
+global.db.data.users[m.sender].limit -= text
+conn.reply(m.chat, 'Berhasil menabung ${text} limit\n\nKetik #nabunginfo untuk melihat info tabungan anda ... ', m)
+
+}
+handler.help = ['nabunglimit']
+handler.tags = ['xp']
+handler.command = /^nabunglimit$/i
+
+module.exports = handler
+
+Terus buat lagi nabungexp.js di plugin
+isi file
+
+let handler = async (m, { conn, text }) => {
+if (!text) throw 'Masukkan Jumlah exp yang akan di tabung ...'
+if (global.db.data.users[m.sender].exp <= text) throw 'EXP tidak cukup untuk ditabung !!'
+global.db.data.users[m.sender].nabungexp += text
+global.db.data.users[m.sender].exp -= text
+conn.reply(m.chat, 'Berhasil menabung ${text} exp\n\nKetik #nabunginfo untuk melihat info tabungan anda ... ', m)
+
+}
+handler.help = ['nabungexp']
+handler.tags = ['xp']
+handler.command = /^nabungexp$/i
+
+module.exports = handler
+
+Trus ini buat yang nabunginfo.js buat di plugin juga
+isi ini
+
+let handler = async (m, { conn, text }) => {
+let expmenu = global.db.data.users[m.sender].nabungexp
+let limitmenu = global.db.data.users[m.sender].nabunglimit
+let name = conn.getName(m.sender)
+
+conn.reply(m.chat, 'TABUNGAN\n\nNama : ${name}\nJumlah Limit : ${limitmenu}\nJumlah Exp : ${expmenu}\n\nUntuk claim balas #claimlimit untuk claim limit dan #claimexp untuk claim exp ...', m)
+
+}
+handler.help = ['nabungexp']
+handler.tags = ['xp']
+handler.command = /^nabungexp$/i
+
+module.exports = handler
