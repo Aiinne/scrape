@@ -1,7 +1,17 @@
 [
-   "monsters": "Monster Nemean Lion",
-   "monsters": "Monster Lernaean Hydra",
-   "monsters": "Monster Lamia",
-   "monsters": "Monster Golems",
+   {
+   "monsters": "Monster Nemean Lion"
+   },
+   {
+   "monsters": "Monster Lernaean Hydra"
+   },
+   {
+   "monsters": "Monster Lamia"
+   },
+   {
+   "monsters": "Monster Golems"
+   },
+   {
    "monsters": "Monster Scorpion Z"
+   }
 ]
