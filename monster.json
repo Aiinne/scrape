@@ -1,4 +1,6 @@
-{
+          
+[
+       {
        "result": {
              "monsters": "Monster Nemean Lion"
              },
@@ -15,3 +17,4 @@
              "monsters": "Monster Scorpion Z"
              }
        }
+]
