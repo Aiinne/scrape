@@ -1,19 +1,7 @@
 [
-       {
-       "result": {
-             "monsters": "Monster Nemean Lion"
-             },
-       "result": {
-             "monsters": "Monster Lernaean Hydra"
-             },
-       "result": {
-             "monsters": "Monster Lamia"
-             },    
-       "result": {
-             "monsters": "Monster Golems"
-             },    
-       "result": {
-             "monsters": "Monster Scorpion Z"
-             }
-       }
+   "monsters": "Monster Nemean Lion",
+   "monsters": "Monster Lernaean Hydra",
+   "monsters": "Monster Lamia",
+   "monsters": "Monster Golems",
+   "monsters": "Monster Scorpion Z"
 ]
