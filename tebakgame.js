@@ -114,7 +114,7 @@
         },
     {
         "img": "https://telegra.ph/file/72f55035f68a6e347dd13.jpg",
-        "jawaban": "Mortal Combat"
+        "jawaban": "Mortal Combat Shaolin nks"
         }
 
 ]
