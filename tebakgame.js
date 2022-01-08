@@ -111,6 +111,10 @@
     {
         "img": "https://telegra.ph/file/24126e011c821ee38b7fc.jpg",
         "jawaban": "Basara"
+        },
+    {
+        "img": "https://telegra.ph/file/72f55035f68a6e347dd13.jpg",
+        "jawaban": "Mortal Combat"
         }
 
 ]
