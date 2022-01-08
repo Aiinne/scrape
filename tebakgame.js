@@ -103,6 +103,10 @@
     {
         "img": "https://images3.alphacoders.com/816/816720.jpg",
         "jawaban": "PlayerUnknown's Battleground"
+        },
+    {
+        "img": "https://telegra.ph/file/0b698504c9ed88fffae51.jpg",
+        "jawaban": "Point Blank"
         }
 
 ]
