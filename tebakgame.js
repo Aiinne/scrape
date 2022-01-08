@@ -107,6 +107,10 @@
     {
         "img": "https://telegra.ph/file/0b698504c9ed88fffae51.jpg",
         "jawaban": "Point Blank"
+        },
+    {
+        "img": "https://telegra.ph/file/24126e011c821ee38b7fc.jpg",
+        "jawaban": "Basara"
         }
 
 ]
