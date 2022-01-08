@@ -119,6 +119,10 @@
     {
         "img": "https://telegra.ph/file/9ddfcde7a04cfbe7ffb5b.jpg",
         "jawaban": "Metal Slug"
+        },
+    {
+        "img": "https://telegra.ph/file/876178b79b966f51f2ae3.jpg",
+        "jawaban": "Downhill"
         }
 
 ]
