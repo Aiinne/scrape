@@ -115,6 +115,10 @@
     {
         "img": "https://telegra.ph/file/72f55035f68a6e347dd13.jpg",
         "jawaban": "Mortal Combat Shaolin nks"
+        },
+    {
+        "img": "https://telegra.ph/file/9ddfcde7a04cfbe7ffb5b.jpg",
+        "jawaban": "Metal Slug"
         }
 
 ]
